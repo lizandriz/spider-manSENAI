@@ -1,0 +1,28 @@
+body{
+    text-align: center ;
+    background-image: linear-gradient( to bottom, #ce1b1b,#250094) ;
+    background-attachment: fixed;
+
+}
+
+h1 {
+font-size: 35px;
+line-height: 30px;
+font-family: arial;
+color: rgb(233, 232, 232);
+}
+
+h2{
+    font-size: 100px;
+}
+
+p{
+    font-size: 30px;
+    line-height: 28px;
+    font-family: arial;
+}
+
+img{
+    height: 400px;
+    width: 700px;
+}
